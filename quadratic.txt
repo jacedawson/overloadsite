@@ -1,0 +1,20 @@
+#include <iostream>
+#include <iomanip>
+#include <iostring>
+using namespace std;
+int main ()
+{
+setprecission();
+complex <double> A = 0.0;
+complex <double> B = 0.0;
+complex <double> C = 0.0;
+complex <double> plusResult = 0.0;
+complex <double> minusResult = 0.0;
+cout << "Enter A:";
+cin >> A;
+cout << "Enter B:";
+cin >> B;
+cout << "Enter C:";
+cin >> C;
+
+}
